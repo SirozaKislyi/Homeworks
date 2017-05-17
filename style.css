@@ -1,0 +1,36 @@
+img {
+	height: 400px;
+}
+h1 {
+	font-family: Comic Sans;
+}
+div {
+	border-bottom: 1px solid grey;
+	width: 550px;
+	margin-left: 400px;
+}
+p {
+	color: grey;
+}
+ul{
+	font-size: 18px;
+	font-weight: bold;
+	margin-left:-40px;
+}
+li{
+	line-height:24px;
+	margin-left:15px;
+}
+#li {
+	list-style: none;
+}
+a{
+	margin-left:15px;
+	line-height:30px;
+}
+.footer{
+	border-bottom: none;
+}
+#footer {
+	margin-left:15px;
+	color: black;
