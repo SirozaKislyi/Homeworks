@@ -3,9 +3,6 @@ body{
 	height: 1000px;
 }
 .header{
-	font-family: "Comic Sans";
-	margin-left: 30%;
-	font-size: 29px;
 	border:none
 }
 .header h1{
