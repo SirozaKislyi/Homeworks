@@ -2,16 +2,24 @@ body{
 	padding: 0;
 	height: 1000px;
 }
-img {
-	height: 400px;
-	margin-top: auto;
-	margin-left: 36%;
-}
-h1 {
+.header{
 	font-family: "Comic Sans";
 	margin-left: 30%;
 	font-size: 29px;
+	border:none
 }
+.header h1{
+	font-family: "Comic Sans";
+	font-size: 29px;
+	text-align: center;
+}
+
+.header img {
+	height: 400px;
+	display:block; 
+	margin:0 auto;
+}
+
 div {
 	border-bottom: 1px solid grey;
 	width: 550px;
@@ -20,14 +28,16 @@ div {
 p {
 	color: grey;
 }
-ul{
-	font-size: 18px;
+pre{
+	font-family: "Comic Sans";
+	font-size: 20px;
 	font-weight: bold;
-	margin-left:-40px;
+	margin:0 auto;
+	padding-top:15px;
 }
 li{
 	line-height:27px;
-	margin-left:35px;
+	margin-left:13px;
 	font-weight: normal;
 }
 #li {
