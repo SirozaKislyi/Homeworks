@@ -9,7 +9,7 @@ img {
 }
 h1 {
 	font-family: "Comic Sans";
-	text-align: center;
+	margin-left: 30%;
 	font-size: 29px;
 }
 div {
@@ -42,3 +42,4 @@ a{
 }
 span {
 	margin-left:15px;
+}
