@@ -22,10 +22,11 @@ div {
 	width: 550px;
 	margin-left: 30%;
 }
-p {
-	color: blue;
+#grey {
+	color: grey;
+	font-weight: normal;
 }
-pre{
+p{
 	font-family: "Comic Sans";
 	font-size: 20px;
 	font-weight: bold;
@@ -37,16 +38,15 @@ li{
 	margin-left:13px;
 	font-weight: normal;
 }
-#li {
-	list-style: none;
-}
+
 a{
 	margin-left:15px;
-	line-height:30px;
+	line-height:35px;
 }
 .footer{
 	border-bottom: none;
 }
 span {
 	margin-left:15px;
+	line-height:40px;
 }
